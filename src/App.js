@@ -6,7 +6,7 @@ import WriteMapPage from './newMap/WriteMapPage';
 
 function App() {
 
-  const setAddress = e => console.log(e);
+  const setAddress = e => {};
 
   return (
     <>
